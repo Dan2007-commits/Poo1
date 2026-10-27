@@ -1,0 +1,10 @@
+
+/bin/
+/out/
+/target/
+/.vscode/
+/unicore.db
+/materias.csv
+/matriculas.csv
+/usuarios.csv
+/unicore.xlsx
